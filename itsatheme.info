@@ -1,0 +1,4 @@
+name = It's a theme
+description = It's just a drupal theme
+engine = twig
+core = 7.x
